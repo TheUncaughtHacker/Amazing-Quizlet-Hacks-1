@@ -1,3 +1,5 @@
+A really fun match hack
+
 document.addEventListener('keypress', function () {
   let terms = Quizlet.matchModeData.terms;
   let boxes = document.getElementsByClassName('MatchModeQuestionGridTile-text');
